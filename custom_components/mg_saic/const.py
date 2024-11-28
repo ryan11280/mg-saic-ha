@@ -90,6 +90,7 @@ COUNTRY_CODES = [
     {"code": "+380", "country": "Ukraine"},
     {"code": "+596", "country": "Martinique"},
     {"code": "+852", "country": "Hong Kong"},
+    {"code": "+886", "country": "Taiwan"},
     {"code": "+966", "country": "Saudi Arabia"},
     {"code": "+971", "country": "United Arab Emirates"},
     {"code": "+972", "country": "Israel"},
